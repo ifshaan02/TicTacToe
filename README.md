@@ -1,2 +1,2 @@
 # TicTacToe
-Java based Tic Tac Toe
+This is a simple console-based Tic-Tac-Toe game written in Java, where you play against the computer. The game uses a 3x3 grid, and you take turns placing your symbol (X) while the computer places its symbol (O). You choose your move by entering a number between 1 and 9, each representing a position on the board. The game checks after every turn to see if there’s a winner or if the game ends in a draw. The computer picks random positions that haven’t been taken yet. The code is beginner-friendly and demonstrates basic Java concepts like arrays, loops, conditionals, and ArrayLists. It’s a fun way to practice logic and Java programming skills.
